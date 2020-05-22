@@ -1,14 +1,11 @@
-* {
-  background-image: image-url("kuro.jpg");
-  
-}
+
 body{
   min-width: 650px;
   .header{
-    height: 56px;
+    height: 200px;
     width: 100%;
     padding: 0 150px;
-    
+    background-image: image-url("kuro.jpg");
     color: #fff;
     display: flex;
     justify-content: space-between;
@@ -33,7 +30,7 @@ body{
     margin: 30px auto 0;
     background-color: #fff;
     height: 600px;
-    width: 70%;
+    width: 99%;
     overflow: scroll;
     .content{
       padding: 10px;
@@ -146,5 +143,10 @@ body{
   }
   .user{
     padding: 15px 30px;
+  }
+  .footer {
+    height: 200px;
+    width: 100%;
+    background-image: image-url("kuro.jpg");
   }
 }
