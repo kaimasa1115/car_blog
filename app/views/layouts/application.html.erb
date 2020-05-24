@@ -22,6 +22,10 @@
           <%= link_to "ログイン", new_user_session_path, class: "header__right--btn" %>
           <%= link_to "新規登録", new_user_registration_path, class: "header__right--btn" %>
         <% end %>
+      <div class = "category">
+        カテゴリー別投稿はこちら
+        <%= link_to "国産車", cars_path %>
+        <%= link_to "外車", new_post_path %>
       </div>
     </header>
     <div class="contents">
