@@ -25,3 +25,11 @@
 # ER図
 [![Image from Gyazo](https://i.gyazo.com/77b9a4dc1073ed90407812e8dd40576c.png)](https://gyazo.com/77b9a4dc1073ed90407812e8dd40576c)
 
+# 今後の拡張予定
+<br>
+ カテゴリ機能については現在実装中です。<br>
+ 画像投稿機能の追加
+
+# 本番環境URL
+
+
