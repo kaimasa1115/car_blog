@@ -1,12 +1,12 @@
 # README
 
-# アプリ名
+ アプリ名
 
 # Car Blog
 
-概要
+# 概要
 
-
+ログインしてクルマについての思いを語るアプリです。
 <br>
 
 # 作成目的
@@ -24,5 +24,4 @@
 
 # ER図
 [![Image from Gyazo](https://i.gyazo.com/77b9a4dc1073ed90407812e8dd40576c.png)](https://gyazo.com/77b9a4dc1073ed90407812e8dd40576c)
-
 
