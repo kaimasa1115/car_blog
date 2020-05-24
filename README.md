@@ -32,4 +32,6 @@
 
 # 本番環境URL
 
-
+https://car-blog-0520.herokuapp.com/<br>
+email 000@000<br>
+パスワード　000000
