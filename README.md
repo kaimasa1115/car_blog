@@ -29,7 +29,8 @@
 # 仕様
 - macOS Ctalina10.15.4
 - Ruby<br>
-- Ruby on Rails
+- Ruby on Rails<br>
+- Heroku
 
 # ER図
 [![Image from Gyazo](https://i.gyazo.com/afe85a3aa5a29214c0c2c7d547e1fb5d.png)](https://gyazo.com/afe85a3aa5a29214c0c2c7d547e1fb5d)
