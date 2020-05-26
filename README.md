@@ -20,8 +20,8 @@
 
 クルマの情報や欲しいクルマを書く。
 
-# 使用言語
-
+# 仕様
+- macOS Ctalina10.15.4
 - Ruby<br>
 - Ruby on Rails
 
