@@ -40,6 +40,6 @@ email 000@000<br>
 パスワード　000000
 
 # 参考画像
-[![Image from Gyazo](https://i.gyazo.com/7bca6c1f65f0c69c8510a44a52393f83.png)](https://gyazo.com/7bca6c1f65f0c69c8510a44a52393f83)<br>
+[![Image from Gyazo](https://i.gyazo.com/e9494bb6fd0ee6d5d88af3bcd191e05e.png)](https://gyazo.com/e9494bb6fd0ee6d5d88af3bcd191e05e)<br>
 
-[![Image from Gyazo](https://i.gyazo.com/9cb60f1a4b6bcb0017b4524b65dbb47d.png)](https://gyazo.com/9cb60f1a4b6bcb0017b4524b65dbb47d)
+[![Image from Gyazo](https://i.gyazo.com/558b626346d5476bc58d1a3b12cfec10.png)](https://gyazo.com/558b626346d5476bc58d1a3b12cfec10)
