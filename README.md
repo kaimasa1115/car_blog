@@ -42,4 +42,4 @@ email 000@000<br>
 # 参考画像
 [![Image from Gyazo](https://i.gyazo.com/e9494bb6fd0ee6d5d88af3bcd191e05e.png)](https://gyazo.com/e9494bb6fd0ee6d5d88af3bcd191e05e)<br>
 
-[![Image from Gyazo](https://i.gyazo.com/558b626346d5476bc58d1a3b12cfec10.png)](https://gyazo.com/558b626346d5476bc58d1a3b12cfec10)
+[![Image from Gyazo](https://i.gyazo.com/4f1739df22d9e8152cac627e645b2797.png)](https://gyazo.com/4f1739df22d9e8152cac627e645b2797)
