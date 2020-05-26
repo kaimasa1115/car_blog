@@ -26,7 +26,7 @@
 - Ruby on Rails
 
 # ER図
-[![Image from Gyazo](https://i.gyazo.com/77b9a4dc1073ed90407812e8dd40576c.png)](https://gyazo.com/77b9a4dc1073ed90407812e8dd40576c)
+[![Image from Gyazo](https://i.gyazo.com/afe85a3aa5a29214c0c2c7d547e1fb5d.png)](https://gyazo.com/afe85a3aa5a29214c0c2c7d547e1fb5d)
 
 # 今後の拡張予定
 <br>
