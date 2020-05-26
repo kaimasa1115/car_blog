@@ -1,24 +1,45 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ アプリ名
 
-Things you may want to cover:
+# Car Blog
 
-* Ruby version
+# 概要
 
-* System dependencies
+ユーザー登録をしてクルマについての思いを語るアプリです。<br>
+自分の乗っているクルマや欲しいクルマについて熱く語ってください。
+<br>
 
-* Configuration
+# 作成目的
 
-* Database creation
+自分自身クルマがすごい好きでクルマについてのアプリをRailsの復習も兼ねて作りたいと思いました。<br>
+内容についてはそれぞれのユーザーがクルマについてブログ形式で思いを語れるアプリを作りたいと思い作成しました。<br>
+まずは基本的な部分である新規登録、ログイン、投稿、編集、削除がしっかり出来るように作成しました。
 
-* Database initialization
+# 用途
 
-* How to run the test suite
+クルマの情報や欲しいクルマを書く。
 
-* Services (job queues, cache servers, search engines, etc.)
+# 使用言語
 
-* Deployment instructions
+- Ruby<br>
+- Ruby on Rails
 
-* ...
+# ER図
+[![Image from Gyazo](https://i.gyazo.com/77b9a4dc1073ed90407812e8dd40576c.png)](https://gyazo.com/77b9a4dc1073ed90407812e8dd40576c)
+
+# 今後の拡張予定
+<br>
+ カテゴリ機能については現在実装中です。<br>
+ 画像投稿機能の追加
+
+# 本番環境URL
+
+https://car-blog-0520.herokuapp.com/<br>
+email 000@000<br>
+パスワード　000000
+
+# 参考画像
+[![Image from Gyazo](https://i.gyazo.com/7bca6c1f65f0c69c8510a44a52393f83.png)](https://gyazo.com/7bca6c1f65f0c69c8510a44a52393f83)<br>
+
+[![Image from Gyazo](https://i.gyazo.com/9cb60f1a4b6bcb0017b4524b65dbb47d.png)](https://gyazo.com/9cb60f1a4b6bcb0017b4524b65dbb47d)
