@@ -40,7 +40,10 @@
 - Heroku<br>
 - Haml/sass<br>
 
-
+# 作成期間
+　2020/05/16 本リポジトリ作成<br>
+  2020/05/21 基本部分の実装完了<br>
+  2020/05/25 画像投稿機能実装完了
 # ER図
 [![Image from Gyazo](https://i.gyazo.com/afe85a3aa5a29214c0c2c7d547e1fb5d.png)](https://gyazo.com/afe85a3aa5a29214c0c2c7d547e1fb5d)
 
